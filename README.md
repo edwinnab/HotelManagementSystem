@@ -1,2 +1,3 @@
 # HotelManagementSystem
 hotel management system for hotels.
+Hotel Management System is a system that created in python programming language, This system teach you on how to manage a hotel, and This system has 5 module, first is the main module which is can control all the module that given, second is the customer information module which is displayed the data or the information of the customer, third is the food purchased module which is displayed the list of foods that want to order by the customer, fourth is the room rent module which is displayed the type of room want to rent by the customer. and last is the hotel bill module which is this module displayed the total purchased of the customer.
